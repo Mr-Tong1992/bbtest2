@@ -1,0 +1,6 @@
+framework module bbtest3 {
+  umbrella header "bbtest3-umbrella.h"
+
+  export *
+  module * { export * }
+}

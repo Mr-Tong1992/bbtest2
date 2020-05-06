@@ -1,0 +1,16 @@
+PODS:
+  - bbtest3 (0.1.0)
+
+DEPENDENCIES:
+  - bbtest3 (from `../`)
+
+EXTERNAL SOURCES:
+  bbtest3:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bbtest3: 8bdffa15831ff00f2908653ffddcbf76a3b84410
+
+PODFILE CHECKSUM: f0777a19476655db451855ff4ed23726a4e45c29
+
+COCOAPODS: 1.8.4
